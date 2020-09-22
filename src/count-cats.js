@@ -6,5 +6,3 @@ module.exports = function countCats(arr) {
   }
   return(count);
 };
-
-countCats([[1,2,3],[3,4,5,'^^']])
